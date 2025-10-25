@@ -56,3 +56,6 @@ By using object-fit: cover; and flexible widths, the slider adapts well to diffe
 
 🔗 View the project live here:
 👉 https://yourusername.github.io/ibm-fe-dynamic-image-slider/
+
+⭐ Thank you for visiting this project!
+If you found this useful, consider giving the repository a star 🌟 on GitHub.
